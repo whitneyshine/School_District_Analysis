@@ -11,7 +11,7 @@ The Average Math Score in the Revised District Summary had a small downward tick
  <br>
  ![revised_district_summary_df](Resources/revised_district_summary_df.png)<br>
 <br>
-  **- How is the school summary affected?** <br>
+  **- How is the school summary affected?** <br><br>
   The Original School Summary showed Thomas High School with a 66.911315 for percent passing math.  For percent passing reading, Thomas High School scored a 69.993609 for the original school summary analysis.<br><br>
 ![original_school_summary_df](Resources/original_school_summary_df.png)<br>
 <br>
