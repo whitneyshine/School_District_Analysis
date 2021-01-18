@@ -7,7 +7,7 @@ Maria and her supervisor have been notified by the School Board that there is ev
 <br>
   **- How is the district summary affected?**<br>
   The results of the district summary have very little impact to them.  In each of the graphical displays in the Results section, the original snapshot will be shown first and then the revised snapshot after the 9th Graders from Thomas High School grades were turned to NaN.<br>
-  
+The Average Math Score in the Revised District Summary had a small downward tick of 0.1%.<br>
  ![original_district_summary_df](Resources/original_district_summary_df.png)<br>
  ![revised_district_summary_df](Resources/revised_district_summary_df.png)<br>
 <br>
