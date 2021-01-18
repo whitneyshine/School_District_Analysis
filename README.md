@@ -34,7 +34,7 @@ I have shown the snapshot of the revised Math Scores by Grade.  Since we replace
 <br>
 ![original_spending](Resources/original_spending.png)<br><br>
 In the revised snapshot below, you can see that most all scores have had a minor tick downward when it comes to comparing scores by school spending.<br><br>
-!revised_spending](Resources/revised_spending.png)<br><br>
+![revised_spending](Resources/revised_spending.png)<br><br>
    **- Scores by school size**<br>
    ![original_scores_school_size](Resources/original_scores_school_size.png)<br>
    ![revised_scores_school_size](Resources/revised_scores_school_size.png)<br>
