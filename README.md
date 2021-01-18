@@ -11,7 +11,7 @@ Maria and her supervisor have been notified by the School Board that there is ev
 <br>
   **- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?** <br>
 <br>
-  **- How does replacing the ninth-grade scores affect the following:** <br>
+  **How does replacing the ninth-grade scores affect the following:** <br>
 <br>
 
    **- Math and reading scores by grade**<br>
