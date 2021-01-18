@@ -28,7 +28,7 @@ After the revised analysis was complete, Thomas High School's score shot up ~26%
 
    **- Math and reading scores by grade**<br>
 <br>
-![revised_math_scores_by_grade](Resources/revised_math_scores_by_grade.png)<br>
+![revised_math_by_grade](Resources/revised_math_by_grade.png)<br>
 I have shown the snapshot of the revised Math Scores by Grade.  Since we replaced all 9th Graders to NaN, that is the impact it has had on math as well as on reading.<br><br>
    **- Scores by school spending**<br>
 <br>
