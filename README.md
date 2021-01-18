@@ -8,6 +8,7 @@ Maria and her supervisor have been notified by the School Board that there is ev
   **- How is the district summary affected?**<br>
   ![original_district_summary_df](Resources/original_district_summary_df.png)
   ![revised_district_summary_df](Resouces/revised_district_summary_df.png)
+  
 <br>
   **- How is the school summary affected?** <br>
 <br>
