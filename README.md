@@ -42,6 +42,8 @@ In the revised snapshot below, you can see that most all scores have had a minor
 <br>
 
    **- Scores by school type**<br>
+   <br>
+   Thomas High School is classified as a Charter School.  You can see in the trend is continuing to the last end, Average Reading Score experiences a few decimals upward and the other categories trend downward as we have seen since the new analysis parameters have been established.<br><br>
    ![original_scores_school_type](Resources/original_scores_school_type.png)<br>
    ![revised_scores_school_type](Resources/revised_scores_school_type.png)<br>
 <br>
