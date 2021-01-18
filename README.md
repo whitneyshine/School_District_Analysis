@@ -18,8 +18,9 @@ The Average Math Score in the Revised District Summary had a small downward tick
 After the revised analysis was complete, Thomas High School's score shot up ~26% to a 93.185690 percent passing math.  For their percent passing reading, Thomas High School received a 97.018739 to raise their percent passing reading by ~27%.<br><br>
 ![revised_school_summary_df](Resources/revised_school_summary_df.png)<br>
 <br>
-  **- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?** <br>
-  ![original_top_five](Resources/original_top_five.png)<br>
+  **- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?** <br><br>
+  Thomas High School is still a Top 5 School and in fact, still the second ranked school in the Top 5.  Although their scores did decrease ever so slighty, it did not have an overall impact on their ranking.<br><br>
+  ![original_top_five](Resources/original_top_five.png)<br><br>
   ![revised_top_five](Resources/revised_top_five.png)<br>
 <br><br>
   **How does replacing the ninth-grade scores affect the following:** <br>
