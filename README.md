@@ -27,8 +27,12 @@ Maria and her supervisor have been notified by the School Board that there is ev
 <br>
 
    **- Scores by school size**<br>
+   ![original_scores_school_size](Resources/original_scores_school_size.png)<br>
+   ![revised_scores_school_size](Resources/revised_scores_school_size.png)<br>
 <br>
 
    **- Scores by school type**<br>
+   ![original_scores_school_type](Resources/original_scores_school_type.png)<br>
+   ![revised_scores_school_type](Resources/revised_scores_school_type.png)<br>
 <br>
 **Summary:<br><br>**
