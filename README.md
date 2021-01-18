@@ -14,14 +14,14 @@ Maria and her supervisor have been notified by the School Board that there is ev
   **- How does replacing the ninth-grade scores affect the following:** <br>
 <br>
 
-    **- Math and reading scores by grade**<br>
+   **- Math and reading scores by grade**<br>
 <br>
 
-    **- Scores by school spending**<br>
+   **- Scores by school spending**<br>
 <br>
 
-    **- Scores by school size**<br>
+   **- Scores by school size**<br>
 <br>
 
-    **- Scores by school type**<br>
+   **- Scores by school type**<br>
 <br>
