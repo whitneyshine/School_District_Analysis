@@ -36,6 +36,7 @@ I have shown the snapshot of the revised Math Scores by Grade.  Since we replace
 In the revised snapshot below, you can see that most all scores have had a minor tick downward when it comes to comparing scores by school spending.<br><br>
 ![revised_spending](Resources/revised_spending.png)<br><br>
    **- Scores by school size**<br>
+   Thomas High School is categorized as a Medium Sized High School.  Much like that data and analysis when have seen in other categories, the categories are experiencing a minor downward tick except for Average Reading Score.  This is becoming a consistent theme in our analysis and narrative that we will have to highlight to Maria and her supervisor to point out to the School Board. <br><br>
    ![original_scores_school_size](Resources/original_scores_school_size.png)<br>
    ![revised_scores_school_size](Resources/revised_scores_school_size.png)<br>
 <br>
